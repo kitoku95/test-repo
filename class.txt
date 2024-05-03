@@ -1,7 +1,13 @@
+Crimson
 Orange
+Blue
 Cyan
 Yellow
-Cha
+Charcoal
+Khaki
+Coral
 Silver
 Fuchsia
+Purple
+Brown
 Red
